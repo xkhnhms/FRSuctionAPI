@@ -10,8 +10,8 @@ if __name__ == "__main__":
     # local_rgb_path = './local_mech_imgs/1779781121.914089_rgb.png' 
     # local_depth_path =  './local_mech_imgs/1779781121.914089_depth.png'
 
-    local_rgb_path = './local_mech_imgs/1779781616.5058525_rgb.png' 
-    local_depth_path =  './local_mech_imgs/1779781616.5058525_depth.png'
+    local_rgb_path = '../local_mech_imgs/1779781616.5058525_rgb.png' 
+    local_depth_path =  '../local_mech_imgs/1779781616.5058525_depth.png'
 
 
     suction_pose_solver = Solve_Suciton_Pose()

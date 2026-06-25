@@ -107,8 +107,8 @@ params_cfg = {
             "skip_detect_num":10, # 4  8
 
             # checkpoint file path
-            "obb_checkpoint": "./weights/yolov8s_obb_crossbeam_region_156.pt",
-            "seg_checkpoint": './weights/yolov8s_seg_crossbeam_region.pt', 
+            "obb_checkpoint": "../weights/yolov8s_obb_crossbeam_region_156.pt",
+            "seg_checkpoint": '../weights/yolov8s_seg_crossbeam_region.pt', 
 
             # SAM model params
             "use_sam": False,  # True, False

@@ -5,7 +5,7 @@ if __name__ == "__main__":
 
     # test_ply = '../test_models/002.ply'
     # test_ply = '../test_ply_pipe/imgs/plys/01.ply'
-    test_ply = './test_ply_crossbeam/mask_000.ply'
+    test_ply = '../test_ply_crossbeam/mask_000.ply'
 
     suction_pose_solver = Solve_Suciton_Pose()
     # suction_pose_solver.load_point_cloud_from_ply(test_ply)
